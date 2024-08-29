@@ -1,0 +1,3 @@
+This is the folder for Jade to add/modified/delete with any remote branches in the Practice.
+1. Jade work on this branch primarily.
+2. Jade could add any type in Repo1, or fetch all info from Kevin's folder.

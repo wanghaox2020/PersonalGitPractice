@@ -1,0 +1,3 @@
+This is Kevin's branch:
+1. Kevin will only work in this folder
+2. Kevin will try to fetch information from Jade folder and Repo1 folder.
